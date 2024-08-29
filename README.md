@@ -83,8 +83,7 @@ B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
-answer:
-#MySQL Installation
+answer: C) To separate project dependencies and avoid conflicts
 
 What is the first step to install MySQL on Windows?
 
@@ -103,6 +102,7 @@ C) Full
 D) Custom
 
 answer: D) Custom
+
 Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
